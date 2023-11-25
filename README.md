@@ -1,6 +1,24 @@
-# あれこれマネジメント
+# ArekoreManagement
 
-## やりたいこと
+## Project setup
+```
+npm install
+```
 
-- 項目をユーザー側で追加削除を行えて、Gridなどで表示する
-- その他機能については追って検討する
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
